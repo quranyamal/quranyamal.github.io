@@ -1,0 +1,173 @@
+{
+	"basics": {
+		"name": "Amal Qurany",
+		"label": "Software Engineer",
+		"image": "",
+		"email": "udaamal27@gmail.com",
+		"phone": "(912) 555-4321",
+		"url": "https://johndoe.com",
+		"summary": "I am a Bachelor of Science in Informatics with years of experience in managing complex IT system from development to production. I also have coaching experience and a DevOps Engineer certificate. Currently, I learn full-stack development as well as freelance. I stay in Padang, a beautiful city in Indonesia with delicious and spicy foods :)",
+		"location": {
+			"address": "2712 Broadway St",
+			"postalCode": "CA 94115",
+			"city": "San Francisco",
+			"countryCode": "ID",
+			"region": "California"
+		},
+		"profiles": [
+			{
+				"network": "Twitter",
+				"username": "john",
+				"url": "https://twitter.com/john"
+			}
+		]
+	},
+	"work": [
+		{
+			"name": "Glints Academy",
+			"position": "Industrial Trainer",
+			"url": "https://company.com",
+			"start": "August 2021",
+			"end": "February 2022",
+			"summary": "Guide Indonesian students who take internships in Singapore companies by providing 1on1 mentorship and workshops. The program is in partnership with Kampus Merdeka (an Independent Learning policy from Indonesia’s Ministry of Education, Culture, Research and Technology).",
+			"highlights": [
+				"Started the company"
+			]
+		},
+		{
+			"name": "Xtremax",
+			"position": "System Engineer",
+			"start": "July 2019",
+			"end": "August 2021",
+			"summary": "IT infrastructure development and maintenance, cloud service cost analysis, storage management, operations improvement & automation (DevOps), product research, architect & develop IT systems using AWS."
+		},
+		{
+			"name": "Artificial Intelligence Lab - ITB",
+			"position": "Research Assistant",
+			"start": "January 2018",
+			"end": "October 2018",
+			"summary": "Design, develop and test an Android application and its back-end (Automatic Speech Recognition service). Write and present a paper in an international conference."
+		},
+		{
+			"name": "GITS Indonesia",
+			"position": "Android Developer Intern",
+			"start": "January 2018",
+			"end": "February 2018",
+			"summary": "Design, develop, build and test an android application for news feed using android best practice and News API."
+		},
+		{
+			"name": "E-Life Solutions",
+			"position": "Software Engineer Intern",
+			"start": "May 2017",
+			"end": "August 2017",
+			"summary": "Develop a software system to build an Android app for garages, which can be customized by the garage owner using a web interface. Develop a cross-platform mobile app to print photo using Kiosk machine."
+		}
+	],
+	"organization": [
+		{
+			"name": "Organization",
+			"position": "Volunteer",
+			"url": "https://organization.com/",
+			"startDate": "2012-01-01",
+			"endDate": "2013-01-01",
+			"summary": "Description…",
+			"highlights": [
+				"Awarded 'Volunteer of the Month'"
+			]
+		}
+	],
+	"education": [
+		{
+			"institution": "Institut Teknologi Bandung",
+			"url": "https://institution.com/",
+			"area": "Software Engineering",
+			"studyType": "Bachelor",
+			"degree": "Bachelor of Science in Informatics (Computer Science)",
+			"finalProject": "Development of Mobile Application using Automatic Speech Recognition for Assisting Muroja'ah in Quran Memorization",
+			"start": "August 2014",
+			"end": "September 2018",
+			"score": "xx",
+			"judicium": "Highly Satisfaction",
+			"courses": [
+				"DB1101 - Basic SQL"
+			]
+		}
+	],
+	"awards": [
+		{
+			"title": "Award",
+			"date": "2014-11-01",
+			"awarder": "Company",
+			"summary": "There is no spoon."
+		}
+	],
+	"certificates": [
+		{
+			"name": "Certificate",
+			"date": "2021-11-07",
+			"issuer": "Company",	
+			"url": "https://certificate.com"
+		}
+	],
+	"publications": [
+		{
+			"name": "Publication",
+			"publisher": "Company",
+			"releaseDate": "2014-10-01",
+			"url": "https://publication.com",
+			"summary": "Description…"
+		}
+	],
+	"skills": [
+		{
+			"name": "Web Development",
+			"level": "Master",
+			"keywords": [
+				"HTML",
+				"CSS",
+				"JavaScript"
+			]
+		}
+	],
+	"languages": [
+		{
+			"language": "English",
+			"fluency": "Native speaker"
+		}
+	],
+	"interests": [
+		{
+			"name": "Wildlife",
+			"keywords": [
+				"Ferrets",
+				"Unicorns"
+			]
+		}
+	],
+	"references": [
+		{
+			"name": "Jane Doe",
+			"reference": "Reference…"
+		}
+	],
+	"projects": [
+		{
+			"name": "Project",
+			"description": "Description…",
+			"highlights": [
+				"Won award at AIHacks 2016"
+			],
+			"keywords": [
+				"HTML"
+			],
+			"startDate": "2019-01-01",
+			"endDate": "2021-01-01",
+			"url": "https://project.com/",
+			"roles": [
+				"Team Lead"
+			],
+			"entity": "Entity",
+			"type": "application"
+		}
+	]
+}
